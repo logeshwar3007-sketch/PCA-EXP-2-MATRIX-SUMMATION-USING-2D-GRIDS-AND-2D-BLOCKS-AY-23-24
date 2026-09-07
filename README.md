@@ -2,7 +2,7 @@
 
 <h3>AIM:</h3>
 <h3>S LOGESHWAR</h3>
-<h3>21225040204</h3>
+<h3>212225040204</h3>
 <h3>EX. NO 2</h3>
 <h3>DATE- 30-07-2026 </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
